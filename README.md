@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak CAFERLER</h1>
-# 💫 About Me:
+💫 About Me:
  I am a Senior Computer Engineering student at Eskisehir Osmangazi University. <br> I have been interested in computers and technology since my childhood. <br> Currently, I am interested in mobile applications, web applications, and artificial intelligence.
 
 
