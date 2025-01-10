@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak CAFERLER</h1>
 💫 About Me:
- I am a Senior Computer Engineering student at Eskisehir Osmangazi University. <br> I have been interested in computers and technology since my childhood. <br> Currently, I am interested in mobile applications, web applications, and artificial intelligence.
+Computer Engineer with a strong academic background, graduating with honors from Eskişehir Osmangazi University. Skilled in Siemens NX customization, product lifecycle management, and software development. Experienced in automating design validation, creating efficient workflows, and developing cross-platform applications. Proficient in Python, C#, and Visual Basic, with expertise in tools like NX Check-Mate, Teamcenter, and Azure DevOps. Passionate about solving complex problems through innovative solutions, as demonstrated by my contributions to projects like electric vehicle range prediction and customized desktop applications. Open to opportunities that challenge my skills and foster professional growth.
 
 
 ## 🌐 Socials:
